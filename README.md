@@ -3,7 +3,7 @@
 <h3>Hola 👋</h3>
 <ul>
   <li>Estudiante de ingenieria de software. 💻</li>
-  <li>Apacionado por la electrónica. 📡</li>
+  <li>Apasionado por la electrónica. 📡</li>
   <li>Aprendiendo ✏️<STRONG>
     <ol>HTML ✔️</ol>
     <ol>CSS ✔️</ol>
