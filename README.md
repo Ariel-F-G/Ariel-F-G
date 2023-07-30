@@ -1,4 +1,4 @@
-<h1 align="center" color="blue" > Ariel Fernández Gualdrón </h1>
+<h1 align="center"> Ariel Fernández Gualdrón </h1>
 
 <h3>Hola 👋</h3>
 <ul>
