@@ -1,15 +1,16 @@
 <h1 align="center"> Ariel Fernández Gualdrón </h1>
 
-<h3>Hola 👋</h3>
+<h3>Hola ✌🏼 </h3>
 <ul>
-  <li>Estudiante de ingenieria de software. 💻</li>
+  <li> Ingeniero de software. 💻</li>
   <li>Apasionado por la electrónica. 📡</li>
-  <li>Aprendiendo ✏️<STRONG>
-    <ol>HTML ✔️</ol>
-    <ol>CSS ✔️</ol>
-    <ol>JAVASCRIPT ✔️</ol>
-    <ol>PHYTON ✔️</ol>
-    <ol>NODE JS ✔️</ol> </STRONG>️️
+  <li> Aprendiendo ✏️<STRONG>
+    <ol> 💻 HTML ✔️</ol>
+    <ol> 💻 CSS ✔️</ol>
+    <ol> 💻 JAVASCRIPT ✔️</ol>
+    <ol> 💻 PHYTON ✔️</ol>
+    <ol> 💻 NODE JS ✔️</ol> </STRONG>
+    <ol> 💻 REACT ✔️</ol> </STRONG>️️
   </li>
 </ul>
 
