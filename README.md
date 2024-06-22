@@ -7,10 +7,12 @@
   <li> Aprendiendo ✏️<STRONG>
     <ol> 💻 HTML ✔️</ol>
     <ol> 💻 CSS ✔️</ol>
+    <ol> 💻 BOOTSTRAP ✔️</ol>
+    <ol> 💻 TAILWIND CSS ✔️</ol>
     <ol> 💻 JAVASCRIPT ✔️</ol>
-    <ol> 💻 PHYTON ✔️</ol>
-    <ol> 💻 NODE JS ✔️</ol> </STRONG>
-    <ol> 💻 REACT ✔️</ol> </STRONG>️️
+    <ol> 💻 NODE JS ✔️</ol> 
+    <ol> 💻 REACT ✔️</ol>
+    <ol> 💻 PHYTON ✔️</ol>️️
   </li>
 </ul>
 
