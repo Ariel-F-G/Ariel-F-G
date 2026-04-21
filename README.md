@@ -1,6 +1,6 @@
 <h1 align="left">👨‍💻 Ariel Fernández Gualdrón</h1>
 
-<h3 align="center">🚀 Construyo soluciones digitales seguras</h3>
+<h3 align="left">🚀 Construyo soluciones digitales seguras</h3>
 
 <p align="center">
 Ingeniero de Software | Magíster en Ciberseguridad (2025) <br>
@@ -16,7 +16,7 @@ Apasionado por el desarrollo seguro, pentesting y sistemas escalables.
 📡 Apasionado por la electrónica y la tecnología  
 🎓 Magíster en Ciberseguridad (Finalizada en Octubre 2025)  
 
-Actualmente trabajo en proyectos que combinan desarrollo y seguridad informática.
+Actualmente trabajo independiente en proyectos que combinan desarrollo y seguridad informática.
 
 ---
 
@@ -80,8 +80,5 @@ Plataforma para identificar líneas SIM registradas.
 - React
 
 ---
-
-
-## ⚡ Frase
 
 _"La seguridad no es un producto, es un proceso."_ 🔐
