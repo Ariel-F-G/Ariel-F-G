@@ -14,7 +14,7 @@ Apasionado por el desarrollo seguro, pentesting y sistemas escalables.
 💻 Ingeniero de software con enfoque en ciberseguridad  
 🔐 Experiencia en desarrollo frontend y seguridad ofensiva/defensiva  
 📡 Apasionado por la electrónica y la tecnología  
-🎓 Magíster en Ciberseguridad (Finalizada en Octubre 2025)  
+🎓 Magíster en Ciberseguridad (Con Certificación TUV-RHEINLAN)  
 
 Actualmente trabajo independiente en proyectos que combinan desarrollo y seguridad informática.
 
