@@ -2,7 +2,7 @@
 
 <h3 align="left">🚀 Construyo soluciones digitales seguras</h3>
 
-<p align="center">
+<p align="left">
 Ingeniero de Software | Magíster en Ciberseguridad (2025) <br>
 Apasionado por el desarrollo seguro, pentesting y sistemas escalables.
 </p>
