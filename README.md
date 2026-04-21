@@ -73,7 +73,7 @@ Aplicación de IA para clasificación de niveles de salud.
 
 ---
 
-### 📱 Consulta de Líneas Activas
+### 📱 CILAT - Consulta de Líneas Activas
 Plataforma para identificar líneas SIM registradas.
 
 🔧 Tecnologías:
